@@ -68,13 +68,13 @@ React와 Spring Boot 기반의 풀스택 개발자로, 사용자 중심의 서�
 ### ☕ JAVA 특강 수료 (2024.11 ~ 2025.01)
 **코리아IT아카데미**  
 - 객체지향 프로그래밍(OOP) 원리 및 데이터 구조, 알고리즘 학습
-- 
+
 ---
 
 ## 📫 Contact
 
 - Email: mk0537@naver.com 
-- phone: 010  
+- phone: 010-5751-0537
 - LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
