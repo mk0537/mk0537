@@ -42,18 +42,18 @@ React와 Spring Boot 기반의 풀스택 개발자로, 사용자 중심의 서�
 - 게시판 CRUD + Toast UI 이미지 업로드
 - 댓글, 좋아요, 마이페이지
 - 회원 정보 수정, ID, 비밀번호 찾기
-- GitHub: [🔗 프로젝트 링크]((https://github.com/mk0537/my-login-react-app-deploy))
+- GitHub: [🔗 프로젝트 링크](https://github.com/mk0537/my-login-react-app-deploy)
 
 ### 📌 Book Cafe - 북카페 웹 서비스
 - Spring Boot + React 기반의 로그인/회원가입/찜하기 기능 포함
 - 네이버 도서 API 연동으로 책 정보 자동 수집
 - 자유게시판, 마이페이지 기능 구현
-- GitHub: [🔗 프로젝트 링크]((https://github.com/mk0537/book-cafe-react-app))
+- GitHub: [🔗 프로젝트 링크](https://github.com/mk0537/book-cafe-react-app)
 
 ### 📌 Portfolio Website
 - React 기반 포트폴리오 웹사이트
 - 반응형 UI 및 프로젝트 슬라이더 기능 구현
-- GitHub: [🔗 프로젝트 링크]((https://github.com/mk0537/my-portfolio-react-app))
+- GitHub: [🔗 프로젝트 링크](https://github.com/mk0537/my-portfolio-react-app)
 
 ---
 
