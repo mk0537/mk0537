@@ -44,7 +44,7 @@ React와 Spring Boot 기반의 풀스택 개발자로, 사용자 중심의 서�
 - 회원 정보 수정, ID, 비밀번호 찾기
 - GitHub: [🔗 프로젝트 링크](https://github.com/mk0537/my-login-react-app-deploy)
 
-### 📌 Book Cafe - 북카페 웹 서비스
+### 📌 Book Cafe - 북카페 웹 서비스 (개발진행중)
 - Spring Boot + React 기반의 로그인/회원가입/찜하기 기능 포함
 - 네이버 도서 API 연동으로 책 정보 자동 수집
 - 자유게시판, 마이페이지 기능 구현
