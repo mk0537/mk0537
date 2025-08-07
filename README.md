@@ -75,7 +75,6 @@ React와 Spring Boot 기반의 풀스택 개발자로, 사용자 중심의 서�
 
 - Email: mk0537@naver.com 
 - phone: 010-5751-0537
-- LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
